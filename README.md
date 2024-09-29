@@ -1,7 +1,7 @@
-# Hello, I'm [Sokephwar](https://sokehpwarlay.blogspot.com/) 👋
+# Hello, I'm [Nwe Ni Ei Kyaw](https://sokehpwarlay.blogspot.com/) 👋
 
 ## 👨‍💻 About Me:
-I'm a passionate Full-Stack Developer from New York. I love coding, writing blogs, and contributing to open source.
+I'm a passionate Odoo ERP Developer from Myanmar. I love coding, writing blogs, and contributing to open source.
 
 - 🔭 I’m currently working on [Odoo ERP](https://github.com/Sokehpwar)
 - 🌱 I’m currently learning **Odoo ERP and POWERBI**
