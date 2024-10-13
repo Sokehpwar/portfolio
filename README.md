@@ -13,7 +13,7 @@ I'm a passionate Odoo ERP Developer from Myanmar. I love coding, writing blogs, 
 
 ## 🛠️ Technologies and Tools I Use:
 
-<img align="left" alt="Odoo" width="26px" src=""> Odoo </img>
+<span> Odoo </span>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
