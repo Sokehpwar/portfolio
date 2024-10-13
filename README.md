@@ -9,7 +9,7 @@ I'm a passionate Odoo ERP Developer from Myanmar. I love coding, writing blogs, 
 - 💬 Ask me about **Odoo ERP**
 - 📫 How to reach me: **nwenieikyaw@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://github.com/Sokehpwar/portfolio/blob/46de932d845a566c313bd8e1cf5b809e6e4ff8ca/assets/pdf/Resume_NweNiEiKyaw.pdf)
-  and [My Freelance] https://github.com/Sokehpwar/portfolio/blob/46de932d845a566c313bd8e1cf5b809e6e4ff8ca/description/Nwe%20Ni%20Ei%20Kyaw%20Freelance%20Tasks%20with%20Success.pdf)
+  and [My Freelance Link]https://github.com/Sokehpwar/portfolio/blob/46de932d845a566c313bd8e1cf5b809e6e4ff8ca/description/Nwe%20Ni%20Ei%20Kyaw%20Freelance%20Tasks%20with%20Success.pdf)
 
 ## 🛠️ Technologies and Tools I Use:
 
@@ -31,4 +31,4 @@ I'm a passionate Odoo ERP Developer from Myanmar. I love coding, writing blogs, 
 - [Odoo ERP Knowledge Sharing](https://sokehpwarlay.blogspot.com/)
 
 ## ⚡ Fun fact:
-I play games and have a fun with my BF.
+I play games and have a fun with my BFF.
